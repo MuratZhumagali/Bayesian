@@ -1,0 +1,1 @@
+Bayesian Networks, also called Belief or Causal Networks, are a part of probability theory and are important for reasoning in AI. They are a powerful tool for modeling decision-making under uncertainty. In this assignment you will implement code for computing inferences in Bayesian networks of discrete random variables.  

@@ -1,0 +1,40 @@
+Patient-1:
+{'narcolepsy': '0.1931', 'pancreatitis': '0.2256', 'keratitis': '0.1343', 'hemophilia': '0.0373', 'dementia': '0.1001'}
+{'narcolepsy': ['0.0347', '0.6860'], 'pancreatitis': ['0.0331', '0.8505'], 'keratitis': ['0.0591', '0.3902'], 'hemophilia': ['0.0057', '0.3919'], 'dementia': ['0.0028', '0.9417']}
+{'narcolepsy': ['daytime sleepiness', 'T', 'daytime sleepiness', 'F'], 'pancreatitis': ['oily stools', 'T', 'oily stools', 'F'], 'keratitis': ['no excess tears', 'F', 'no excess tears', 'T'], 'hemophilia': ['deep bruises', 'T', 'deep bruises', 'F'], 'dementia': ['memory loss', 'T', 'memory loss', 'F']}
+Patient-2:
+{'narcolepsy': '0.0371', 'pancreatitis': '0.1447', 'keratitis': '0.1263', 'hemophilia': '0.0795', 'dementia': '0.7146'}
+{'narcolepsy': ['0.0371', '0.0371'], 'pancreatitis': ['0.0331', '0.5190'], 'keratitis': ['0.0455', '0.4609'], 'hemophilia': ['0.0609', '0.0989'], 'dementia': ['0.2475', '0.9912']}
+{'narcolepsy': ['none', 'N', 'none', 'N'], 'pancreatitis': ['nausea', 'T', 'nausea', 'F'], 'keratitis': ['eye redness', 'T', 'eye redness', 'F'], 'hemophilia': ['no headache', 'F', 'no headache', 'T'], 'dementia': ['personality changes', 'T', 'difficulty with planning', 'F']}
+Patient-3:
+{'narcolepsy': '0.0499', 'pancreatitis': '0.6326', 'keratitis': '0.3581', 'hemophilia': '0.0994', 'dementia': '0.6918'}
+{'narcolepsy': ['0.0190', '0.3022'], 'pancreatitis': ['0.3492', '0.8505'], 'keratitis': ['0.0902', '0.8903'], 'hemophilia': ['0.0994', '0.0994'], 'dementia': ['0.2631', '0.9850']}
+{'narcolepsy': ['loss of muscle tone', 'T', 'loss of muscle tone', 'F'], 'pancreatitis': ['abdominal pain', 'T', 'abdominal pain', 'F'], 'keratitis': ['eye redness', 'T', 'eye redness', 'F'], 'hemophilia': ['none', 'N', 'none', 'N'], 'dementia': ['personality changes', 'T', 'ability to reason', 'T']}
+Patient-4:
+{'narcolepsy': '0.2213', 'pancreatitis': '0.0291', 'keratitis': '0.8908', 'hemophilia': '0.1930', 'dementia': '0.8308'}
+{'narcolepsy': ['0.0950', '0.7009'], 'pancreatitis': ['0.0032', '0.4756'], 'keratitis': ['0.6404', '0.9881'], 'hemophilia': ['0.0609', '0.6960'], 'dementia': ['0.8308', '0.8308']}
+{'narcolepsy': ['loss of muscle tone', 'T', 'loss of muscle tone', 'F'], 'pancreatitis': ['oily stools', 'T', 'oily stools', 'F'], 'keratitis': ['no excess tears', 'F', 'no excess tears', 'T'], 'hemophilia': ['deep bruises', 'T', 'deep bruises', 'F'], 'dementia': ['none', 'N', 'none', 'N']}
+Patient-5:
+{'narcolepsy': '0.9799', 'pancreatitis': '0.1147', 'keratitis': '0.0034', 'hemophilia': '0.0219', 'dementia': '0.0162'}
+{'narcolepsy': ['0.9799', '0.9799'], 'pancreatitis': ['0.0137', '0.7967'], 'keratitis': ['0.0014', '0.0103'], 'hemophilia': ['0.0012', '0.7684'], 'dementia': ['0.0021', '0.1532']}
+{'narcolepsy': ['none', 'N', 'none', 'N'], 'pancreatitis': ['oily stools', 'T', 'oily stools', 'F'], 'keratitis': ['sensitivity to light', 'T', 'sensitivity to light', 'F'], 'hemophilia': ['excessive bleeding', 'T', 'deep bruises', 'F'], 'dementia': ['memory loss', 'T', 'memory loss', 'F']}
+Patient-6:
+{'narcolepsy': '0.0017', 'pancreatitis': '0.1203', 'keratitis': '0.5976', 'hemophilia': '0.2939', 'dementia': '0.2695'}
+{'narcolepsy': ['0.0017', '0.0017'], 'pancreatitis': ['0.0331', '0.5684'], 'keratitis': ['0.3754', '0.8597'], 'hemophilia': ['0.2379', '0.3460'], 'dementia': ['0.0057', '0.9912']}
+{'narcolepsy': ['none', 'N', 'none', 'N'], 'pancreatitis': ['oily stools', 'T', 'oily stools', 'F'], 'keratitis': ['no excess tears', 'F', 'no excess tears', 'T'], 'hemophilia': ['no headache', 'F', 'no headache', 'T'], 'dementia': ['memory loss', 'T', 'memory loss', 'F']}
+Patient-7:
+{'narcolepsy': '0.1104', 'pancreatitis': '0.2412', 'keratitis': '0.8779', 'hemophilia': '0.3209', 'dementia': '0.9484'}
+{'narcolepsy': ['0.0347', '0.2875'], 'pancreatitis': ['0.0331', '0.9058'], 'keratitis': ['0.3754', '0.9962'], 'hemophilia': ['0.0405', '0.9710'], 'dementia': ['0.3272', '0.9997']}
+{'narcolepsy': ['daytime sleepiness', 'T', 'daytime sleepiness', 'F'], 'pancreatitis': ['oily stools', 'T', 'oily stools', 'F'], 'keratitis': ['no excess tears', 'F', 'eye pain', 'F'], 'hemophilia': ['excessive bleeding', 'T', 'bloody urine', 'F'], 'dementia': ['difficulty with planning', 'T', 'no difficulty communicating', 'T']}
+Patient-8:
+{'narcolepsy': '0.0093', 'pancreatitis': '0.9765', 'keratitis': '0.0899', 'hemophilia': '0.0245', 'dementia': '0.1804'}
+{'narcolepsy': ['0.0093', '0.0093'], 'pancreatitis': ['0.9765', '0.9765'], 'keratitis': ['0.0066', '0.9630'], 'hemophilia': ['0.0012', '0.8205'], 'dementia': ['0.0441', '0.7586']}
+{'narcolepsy': ['none', 'N', 'none', 'N'], 'pancreatitis': ['none', 'N', 'none', 'N'], 'keratitis': ['eyelid pain', 'T', 'eye redness', 'F'], 'hemophilia': ['excessive bleeding', 'T', 'bloody urine', 'F'], 'dementia': ['difficulty with planning', 'T', 'difficulty with planning', 'F']}
+Patient-9:
+{'narcolepsy': '0.2174', 'pancreatitis': '0.4808', 'keratitis': '0.8079', 'hemophilia': '0.1536', 'dementia': '0.3324'}
+{'narcolepsy': ['0.0093', '0.9799'], 'pancreatitis': ['0.1105', '0.9058'], 'keratitis': ['0.4609', '0.9947'], 'hemophilia': ['0.0611', '0.6176'], 'dementia': ['0.3324', '0.3324']}
+{'narcolepsy': ['loss of muscle tone', 'T', 'daytime sleepiness', 'F'], 'pancreatitis': ['abdominal pain', 'T', 'abdominal pain', 'F'], 'keratitis': ['eyelid pain', 'T', 'eye pain', 'F'], 'hemophilia': ['excessive bleeding', 'T', 'excessive bleeding', 'F'], 'dementia': ['none', 'N', 'none', 'N']}
+Patient-10:
+{'narcolepsy': '0.0488', 'pancreatitis': '0.0941', 'keratitis': '0.2065', 'hemophilia': '0.1302', 'dementia': '0.4610'}
+{'narcolepsy': ['0.0017', '0.9001'], 'pancreatitis': ['0.0137', '0.5190'], 'keratitis': ['0.1231', '0.3902'], 'hemophilia': ['0.0668', '0.5116'], 'dementia': ['0.2631', '0.8549']}
+{'narcolepsy': ['loss of muscle tone', 'T', 'daytime sleepiness', 'F'], 'pancreatitis': ['abdominal pain', 'T', 'abdominal pain', 'F'], 'keratitis': ['no decreased vision', 'F', 'no decreased vision', 'T'], 'hemophilia': ['excessive bleeding', 'T', 'excessive bleeding', 'F'], 'dementia': ['personality changes', 'T', 'personality changes', 'F']}
